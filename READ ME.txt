@@ -1,0 +1,10 @@
+This program simulates the game of Connect 4 and a variation of Connect 4, along with storing the results of previous games.
+Players can name themselves and pick their own color for their chips.
+
+To run the game, run the main.py file. All inputs are done through text.
+
+This file requires all subsidiary files (GameLogic.py, etc) to be in the same folder as the main.py file, along with the respective
+text data files. Please ensure that they are all in the same folder.
+
+If unexpected errors occur, it is safe to close the instane of main.py running and relaunch it. However, if a game is currently being played,
+then that games data will be lost.
